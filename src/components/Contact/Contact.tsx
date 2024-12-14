@@ -7,7 +7,6 @@ import {
   Youtube,
   Mail,
   Globe,
-  Twitch
 } from 'lucide-react';
 import SocialButton from './SocialButton';
 
@@ -15,49 +14,43 @@ const socialLinks = [
   {
     icon: Github,
     label: 'Follow on GitHub',
-    href: 'https://github.com',
+    href: 'https://github.com/faridsuryadi',
     color: 'text-white hover:text-gray-200',
   },
   {
     icon: Linkedin,
     label: 'Connect on LinkedIn',
-    href: 'https://linkedin.com',
+    href: 'https://www.linkedin.com/in/farid-suryadi-183aa2341/',
     color: 'text-blue-400 hover:text-blue-300',
   },
   {
     icon: Twitter,
     label: 'Follow on Twitter',
-    href: 'https://twitter.com',
+    href: 'https://twitter.com/faridsuryadi',
     color: 'text-sky-400 hover:text-sky-300',
   },
   {
     icon: Instagram,
     label: 'Follow on Instagram',
-    href: 'https://instagram.com',
+    href: 'https://instagram.com/faridsuryadi',
     color: 'text-pink-400 hover:text-pink-300',
   },
   {
     icon: Youtube,
     label: 'Subscribe on YouTube',
-    href: 'https://youtube.com',
+    href: 'https://youtube.com/faridsuryadi',
     color: 'text-red-500 hover:text-red-400',
-  },
-  {
-    icon: Twitch,
-    label: 'Watch on Twitch',
-    href: 'https://twitch.tv',
-    color: 'text-purple-400 hover:text-purple-300',
   },
   {
     icon: Globe,
     label: 'Visit Website',
-    href: 'https://example.com',
+    href: 'https://faridsuryadi.tiunusia.com',
     color: 'text-emerald-400 hover:text-emerald-300',
   },
   {
     icon: Mail,
     label: 'Send an Email',
-    href: 'mailto:contact@example.com',
+    href: 'mailto:geryandgrey@gmail.com',
     color: 'text-yellow-400 hover:text-yellow-300',
   },
 ];
