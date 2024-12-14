@@ -23,8 +23,8 @@ export default function SocialLinks() {
   return (
     <div className="flex justify-center space-x-6">
       <SocialLink icon={<Github />} href="https://github.com/faridsuryadi" />
-      <SocialLink icon={<Linkedin />} href="https://linkedin.com" />
-      <SocialLink icon={<Mail />} href="mailto:contact@example.com" />
+      <SocialLink icon={<Linkedin />} href="https://www.linkedin.com/in/farid-suryadi-183aa2341/" />
+      <SocialLink icon={<Mail />} href="mailto:geryandgrey@gmail.com" />
     </div>
   );
 }
